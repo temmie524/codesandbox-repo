@@ -1,2 +1,2 @@
-# codesandbox-repo
+# JavaScriptのTodoアプリ
 Created with CodeSandbox
